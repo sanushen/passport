@@ -27,7 +27,7 @@
         "source": "https://github.com/FriendsOfFlarum/passport"
     },
     "require": {
-        "flarum/core": ">=0.1.0-beta.12 <0.1.0-beta.14",
+        "flarum/core": "^0.1.0-beta.10",
         "league/oauth2-client": "^2.3.0"
     },
     "replace": {
